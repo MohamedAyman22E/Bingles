@@ -549,7 +549,7 @@ textarea {
     font-size: 30px;
   }
   nav {
-    padding: 50px 8%;
+    padding: 25px 8%;
   }
   .nav-list {
     flex-direction: column;
@@ -596,7 +596,7 @@ textarea {
 }
 @media (max-width: 1128px) {
   nav {
-    padding: 50px 6%;
+    padding: 25px 6%;
   }
 }
 @media (max-width: 1076px) {
