@@ -44,6 +44,7 @@ body {
   right: 34px;
   transition: .3s;
   cursor: pointer;
+  z-index: 1000000000000000;
 }
 .toTop.active{
   bottom: 34px;
@@ -596,7 +597,7 @@ textarea {
 }
 @media (max-width: 1128px) {
   nav {
-    padding: 25px 6%;
+    padding: 25px  6%;
   }
 }
 @media (max-width: 1076px) {
